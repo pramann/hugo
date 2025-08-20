@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'de-de'
+title = 'Daniel Pramann / Linux Solutions'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
